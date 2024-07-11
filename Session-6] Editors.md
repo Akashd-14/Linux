@@ -84,11 +84,12 @@ nano [filename].[extension]
 * :wq or :x 	save and quit
 * :q! 	quit without saving forcefully
 * :wq! 	save and quit forcefully
-* :/<word>   highlight word/string/character
+* :/<word>   Highlight word/string/character
 * :nohl   remove highlight
 * :%s/<old>/<new>/g   find and replace old word with new word
 * :set nu   set line numbers
 * :set nonu   remove line numbers
+
 ### Visual Mode-
 - this mode is used for selection. 
 * v - Select character by character 	
